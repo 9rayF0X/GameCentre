@@ -18,27 +18,8 @@ Other emulators with **API27** and **Android 8.1** may also be used.
 
 ## Contributor
 ### Authors:
-* Jiahao Cheng
-* Lewis Leng
-* Feifei Li
-* Wenkai Cao.
+* Jiahao Cheng: chengjiahao1234 https://github.com/chengjiahao1234
+* Lewis Leng: lengJunY https://github.com/lengJunY
+* Feifei Li: https://github.com/9rayF0X
+* Wenkai Cao: kevin949373048 https://github.com/kevin949373048
 
-License
-----
-```
-Copyright Jiahao Cheng, Lewis Leng, Feifei Li, and Wenkai Cao, 2018
-Distributed under the terms of the GNU General Public License.
-
-This is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this file.  If not, see <http://www.gnu.org/licenses/>.
-```
